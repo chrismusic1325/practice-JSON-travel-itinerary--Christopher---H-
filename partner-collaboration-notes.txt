@@ -2,7 +2,9 @@ Pair Practice: JSON Travel Itinerary
 
 Partner: Tiffany M
 
-For this activity, I reviewed Tiffany's travel itinerary JSON structure and created an additional partner file in my own repository.
+My original JSON file is itinerary.json. It contains my European Summer Adventure itinerary.
+
+The partner JSON file is tiffany-itinerary.json. It contains Tiffany's Summer Vacation itinerary with my additions.
 
 Tiffany's original JSON included:
 - Traveler information
@@ -10,12 +12,9 @@ Tiffany's original JSON included:
 - Michigan destination
 - Activities for each destination
 
-My additions to the partner JSON included:
+My additions to Tiffany's JSON included:
 - Added transportation objects with mode and cost fields
 - Added a new Florida destination
 - Added activities for the new destination
-- Reviewed the JSON structure for organization and scalability
 
-My original Europe travel itinerary is still stored in itinerary.json.
 My reflection answers are stored in answers.txt.
-The completed partner version is stored in tiffany-itinerary.json.

@@ -1,67 +1,40 @@
 {
-  "tripName": "Summer Vacation",
+  "tripName": "European Summer Adventure",
   "traveler": {
-    "name": "Tiffany M",
+    "name": "Christopher H.",
     "contact": {
-      "email": "tiffany@gmail.com",
-      "phone": "610-867-5309"
+      "email": "christopher@example.com",
+      "phone": "555-123-4567"
     }
   },
   "destinations": [
     {
-      "location": "Arizona",
-      "arrivalDate": "2026-07-23",
-      "departureDate": "2026-07-30",
-      "transportation": {
-        "mode": "Flight",
-        "cost": 325
-      },
+      "location": "Paris",
+      "arrivalDate": "2026-07-10",
+      "departureDate": "2026-07-14",
       "activities": [
         {
-          "title": "Hike",
-          "time": "7:00 AM"
-        },
-        {
-          "title": "Museum",
-          "time": "3:00 PM"
-        }
-      ]
-    },
-    {
-      "location": "Michigan",
-      "arrivalDate": "2026-08-01",
-      "departureDate": "2026-08-06",
-      "transportation": {
-        "mode": "Car",
-        "cost": 120
-      },
-      "activities": [
-        {
-          "title": "Birthday Party",
-          "time": "12:00 PM"
-        },
-        {
-          "title": "Water Park",
+          "title": "Visit the Eiffel Tower",
           "time": "10:00 AM"
+        },
+        {
+          "title": "Tour the Louvre Museum",
+          "time": "2:00 PM"
         }
       ]
     },
     {
-      "location": "Florida",
-      "arrivalDate": "2026-08-10",
-      "departureDate": "2026-08-15",
-      "transportation": {
-        "mode": "Flight",
-        "cost": 280
-      },
+      "location": "Rome",
+      "arrivalDate": "2026-07-15",
+      "departureDate": "2026-07-20",
       "activities": [
         {
-          "title": "Beach Day",
-          "time": "9:00 AM"
+          "title": "Visit the Colosseum",
+          "time": "11:00 AM"
         },
         {
-          "title": "Theme Park",
-          "time": "1:00 PM"
+          "title": "Explore Vatican City",
+          "time": "3:00 PM"
         }
       ]
     }
