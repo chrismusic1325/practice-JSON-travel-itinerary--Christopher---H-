@@ -10,4 +10,4 @@ I used arrays for both the destinations and activities fields. Arrays are approp
 This JSON structure can be expanded by adding additional nested objects and arrays. For example, each destination could include a hotel object containing the hotel name, address, and reservation number. Transportation details could also be expanded to include airline information, confirmation numbers, departure times, or rental car details.
 
 4. Real-World Application
-This data would be useful in a travel app or API because it keeps all trip information organized in a single structure. An application could use the data to display itineraries, show upcoming activities, manage reservations, track transportation details, and provide travelers with a complete overview of their trip.
+This data would be useful in a travel app or API because it keeps all trip information organized in one structure. An application could use the data to display itineraries, show upcoming activities, manage reservations, track transportation details, and provide travelers with a complete overview of their trip.
