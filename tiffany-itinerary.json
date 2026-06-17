@@ -1,0 +1,69 @@
+{
+  "tripName": "Summer Vacation",
+  "traveler": {
+    "name": "Tiffany M",
+    "contact": {
+      "email": "tiffany@gmail.com",
+      "phone": "610-867-5309"
+    }
+  },
+  "destinations": [
+    {
+      "location": "Arizona",
+      "arrivalDate": "2026-07-23",
+      "departureDate": "2026-07-30",
+      "transportation": {
+        "mode": "Flight",
+        "cost": 325
+      },
+      "activities": [
+        {
+          "title": "Hike",
+          "time": "7:00 AM"
+        },
+        {
+          "title": "Museum",
+          "time": "3:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Michigan",
+      "arrivalDate": "2026-08-01",
+      "departureDate": "2026-08-06",
+      "transportation": {
+        "mode": "Car",
+        "cost": 120
+      },
+      "activities": [
+        {
+          "title": "Birthday Party",
+          "time": "12:00 PM"
+        },
+        {
+          "title": "Water Park",
+          "time": "10:00 AM"
+        }
+      ]
+    },
+    {
+      "location": "Florida",
+      "arrivalDate": "2026-08-10",
+      "departureDate": "2026-08-15",
+      "transportation": {
+        "mode": "Flight",
+        "cost": 280
+      },
+      "activities": [
+        {
+          "title": "Beach Day",
+          "time": "9:00 AM"
+        },
+        {
+          "title": "Theme Park",
+          "time": "1:00 PM"
+        }
+      ]
+    }
+  ]
+}
