@@ -1,40 +1,67 @@
 {
-  "tripName": "European Summer Adventure",
+  "tripName": "Summer Vacation",
   "traveler": {
-    "name": "Christopher H.",
+    "name": "Tiffany M",
     "contact": {
-      "email": "christopher@example.com",
-      "phone": "555-123-4567"
+      "email": "tiffany@gmail.com",
+      "phone": "610-867-5309"
     }
   },
   "destinations": [
     {
-      "location": "Paris",
-      "arrivalDate": "2026-07-10",
-      "departureDate": "2026-07-14",
+      "location": "Arizona",
+      "arrivalDate": "2026-07-23",
+      "departureDate": "2026-07-30",
+      "transportation": {
+        "mode": "Flight",
+        "cost": 325
+      },
       "activities": [
         {
-          "title": "Visit the Eiffel Tower",
-          "time": "10:00 AM"
+          "title": "Hike",
+          "time": "7:00 AM"
         },
         {
-          "title": "Dinner Cruise on the Seine River",
-          "time": "7:00 PM"
+          "title": "Museum",
+          "time": "3:00 PM"
         }
       ]
     },
     {
-      "location": "Rome",
-      "arrivalDate": "2026-07-14",
-      "departureDate": "2026-07-18",
+      "location": "Michigan",
+      "arrivalDate": "2026-08-01",
+      "departureDate": "2026-08-06",
+      "transportation": {
+        "mode": "Car",
+        "cost": 120
+      },
       "activities": [
         {
-          "title": "Tour the Colosseum",
-          "time": "9:30 AM"
+          "title": "Birthday Party",
+          "time": "12:00 PM"
         },
         {
-          "title": "Visit the Vatican Museums",
-          "time": "2:00 PM"
+          "title": "Water Park",
+          "time": "10:00 AM"
+        }
+      ]
+    },
+    {
+      "location": "Florida",
+      "arrivalDate": "2026-08-10",
+      "departureDate": "2026-08-15",
+      "transportation": {
+        "mode": "Flight",
+        "cost": 280
+      },
+      "activities": [
+        {
+          "title": "Beach Day",
+          "time": "9:00 AM"
+        },
+        {
+          "title": "Theme Park",
+          "time": "1:00 PM"
         }
       ]
     }

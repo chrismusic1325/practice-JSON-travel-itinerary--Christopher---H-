@@ -1,0 +1,20 @@
+Pair Practice: JSON Travel Itinerary
+
+Partner: Tiffany M
+
+For this activity, I reviewed and expanded the travel itinerary JSON structure.
+
+Original JSON included:
+- Traveler information
+- Arizona destination
+- Michigan destination
+- Activities for each destination
+
+My contributions included:
+- Added transportation objects with mode and cost fields
+- Added a new Florida destination
+- Added activities for the new destination
+- Reviewed the JSON structure for organization and scalability
+- Completed the reflection questions in answers.txt
+
+The completed JSON file is stored in itinerary.json.
